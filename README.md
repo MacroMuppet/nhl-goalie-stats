@@ -1,6 +1,6 @@
 # NHL Goalie Save Percentage Visualization
 
-This project creates a visually appealing bar graph showing the top 10 NHL goalies by save percentage for the current season. Each bar in the graph is filled with the goalie's team logo and team colors.
+This project creates a real-time current bar graph showing the top 10 NHL goalies by save percentage for the current season from the NHL website. Each bar in the graph is filled with the goalie's team logo and team colors.
 
 ## Features
 

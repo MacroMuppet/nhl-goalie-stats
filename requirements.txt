@@ -7,3 +7,36 @@ Pillow>=11.1.0
 
 # SVG creation and manipulation
 svgwrite>=1.4.3 
+
+# Web scraping
+playwright>=1.41.0
+html5lib>=1.1
+aiohttp>=3.9.0
+
+# Search engine
+duckduckgo-search>=7.2.1
+
+# LLM integration
+openai>=1.59.8 # o1 support
+anthropic>=0.42.0
+python-dotenv>=1.0.0
+
+# Testing
+unittest2>=1.1.0
+pytest>=8.0.0
+pytest-asyncio>=0.23.5
+
+# Google Generative AI
+google-generativeai
+
+# gRPC, for Google Generative AI preventing WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+grpcio==1.60.1
+
+# Data analysis and visualization
+pandas>=2.2.0
+matplotlib>=3.8.2
+seaborn>=0.13.2
+plotly>=5.19.0
+kaleido>=0.2.1  # For static image export in plotly
+bokeh>=3.4.0  # For interactive HTML graphs with image patterns
+svgwrite>=1.4.3  # For creating SVG graphs with image patterns
