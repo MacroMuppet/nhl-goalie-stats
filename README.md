@@ -13,7 +13,7 @@ This project creates a visually appealing bar graph showing the top 10 NHL goali
 ## Sample Output
 
 The script generates an SVG file that looks like this:
-![Sample Output](nhl_goalie_save_percentages.svg)
+![Sample Output](nhl_goalie_save_percentages.png)
 
 ## Requirements
 
