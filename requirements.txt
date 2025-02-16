@@ -1,0 +1,9 @@
+# Data handling and visualization
+pandas>=2.2.0
+aiohttp>=3.9.0
+
+# Image processing
+Pillow>=11.1.0
+
+# SVG creation and manipulation
+svgwrite>=1.4.3 

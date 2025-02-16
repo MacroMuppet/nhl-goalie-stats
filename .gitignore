@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated files
+nhl_goalie_save_percentages.svg
+
+# System files
+.DS_Store
+Thumbs.db 
